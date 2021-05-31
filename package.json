@@ -1,0 +1,25 @@
+{
+  "name": "employee_tracker",
+  "version": "1.0.0",
+  "description": "SQL Challenge 12 assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mspierings96/EMPLOYEE_TRACKER.git"
+  },
+  "author": "Mitchell Spierings",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mspierings96/EMPLOYEE_TRACKER/issues"
+  },
+  "homepage": "https://github.com/mspierings96/EMPLOYEE_TRACKER#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.1.0",
+    "mysql2": "^2.2.5"
+  }
+}
